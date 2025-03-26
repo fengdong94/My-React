@@ -2,7 +2,7 @@
 	"name": "react",
 	"version": "1.0.0",
 	"description": "react public functions",
-	"module": "index.js",
+	"module": "index.ts",
 	"dependencies": {
 		"shared": "workspace:*"
 	},

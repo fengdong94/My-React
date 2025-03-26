@@ -1,3 +1,4 @@
+export type ReactElementType = any;
 export type ElementType = any;
 export type Key = any;
 export type Ref = any;
